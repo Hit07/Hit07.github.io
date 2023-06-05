@@ -1,10 +1,5 @@
 /*
-=====================================================================
-*   Ceevee v1.0 Default Stylesheet
-*   url: styleshout.com
-*   edited by Sunwoo Kang
-*   06-29-2018
-=====================================================================
+=============================================================
 
 TOC:
 a. Webfonts and Icon fonts
@@ -140,6 +135,7 @@ table {
 html {
    font-size: 62.5%;
    -webkit-font-smoothing: antialiased;
+
 }
 
 body {
@@ -149,6 +145,7 @@ body {
    font-size: 15px;
    line-height: 30px;
 	color: #838C95;
+
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
